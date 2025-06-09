@@ -259,8 +259,8 @@ void entry() {
         }
     }
 
-    printf("Successfully enabled achievements for modded gameplay, this console is going to close in 5 seconds...");
-    std::this_thread::sleep_for(std::chrono::seconds(5));
+    printf("Successfully enabled achievements for modded gameplay, this console is going to close in 10 seconds...");
+    std::this_thread::sleep_for(std::chrono::seconds(10));
     const auto consoleWindow = GetConsoleWindow();
     FreeConsole();
     SendMessage(consoleWindow, WM_CLOSE, 0, 0);
