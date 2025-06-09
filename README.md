@@ -19,5 +19,4 @@ To help with your decision about installing this tweak:
   2. Regarding future updates, I can promise I'll never insert malicious code, but I recognize that's just my word. Ultimately, it's up to you whether to trust a random person on GitHub and the Factorio forum.
 
 ### Installation
-
-https://files.catbox.moe/aavict.mp4
+https://www.youtube.com/watch?v=nOKb47lJKlE
