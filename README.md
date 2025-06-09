@@ -20,3 +20,5 @@ To help with your decision about installing this tweak:
 
 ### Installation
 [![Installation Video](https://img.youtube.com/vi/nOKb47lJKlE/0.jpg)](https://www.youtube.com/watch?v=nOKb47lJKlE)
+### Uninstallation
+[![Uninstallation Video](https://img.youtube.com/vi/Vpa5bV7gkIo/0.jpg)](https://www.youtube.com/watch?v=Vpa5bV7gkIo)
