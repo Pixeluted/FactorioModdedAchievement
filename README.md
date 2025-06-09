@@ -20,3 +20,4 @@ To help with your decision about installing this tweak:
 
 ### Installation
 
+https://files.catbox.moe/aavict.mp4
