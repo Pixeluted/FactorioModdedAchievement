@@ -1,4 +1,5 @@
 ## Factorio Modded Achievement
+### **This is for windows only.**
 
 This tweak enables you to get achievements within Steam even while you have mods active. It is targeted at people who use vanilla+ mods (which is my case and why I created this).
 
